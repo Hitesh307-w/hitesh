@@ -34,7 +34,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Harsh Dhaka</h1>
+    <h1>Hitesh Patial</h1>
     <p><strong>Email:</strong>hiteshpatial403@gmail.com</p>
     <p><strong>Phone:</strong> +91-7876882007</p>
 
